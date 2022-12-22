@@ -1,3 +1,6 @@
 [submodule "first commit"]
 	path = first commit
 	url = first commit
+[submodule "Second commit"]
+	path = Second commit
+	url = Second commit
